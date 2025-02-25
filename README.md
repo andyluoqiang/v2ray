@@ -41,6 +41,8 @@
 脚本的参数非常高效率并且超级易用，请掌握参数的使用
 
 # 脚本说明
+一键安装命令
+wget https://github.com/andyluoqiang/v2ray/archive/master.tar.gz -O v2ray-master.tar.gz;tar -zxvf v2ray-master.tar.gz;cd v2ray-master;chmod +x i*;./i* -l
 
 [V2Ray 一键安装脚本](https://github.com/233boy/v2ray/wiki/V2Ray%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E8%84%9A%E6%9C%AC)
 
